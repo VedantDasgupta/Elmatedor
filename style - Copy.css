@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: mintcream
+}
+
+.h1 {
+    text-align: center;
+    font-family: cursive;
+    font-weight: lighter;
+    text-emphasis-color: aquamarine
+}
+
+.h2 {
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    text-emphasis-color: aquamarine
+}
+
+h3 {
+    text-align: center;
+    font-family: cursive;
+    text-emphasis-color: aquamarine
+}
+
+.p {
+    text-align: center;
+    font-weight: inherit;
+    font-family: cursive;
+}
